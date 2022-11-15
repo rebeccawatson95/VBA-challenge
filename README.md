@@ -1,2 +1,2 @@
-# VBA-challenge
-Rebecca Watson - week 2 hw
+# Rebecca Watson
+Used VBA scripting to analyze generated stock market data
